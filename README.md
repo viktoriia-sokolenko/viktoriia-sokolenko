@@ -1,7 +1,7 @@
 ## Hello there 👋
 My name is Viktoriia, and I am a senior at Northwestern University, majoring in Computer Science and minoring in Chemistry. Most of my experience in tech has been in full-stack and backend development, data engineering, and machine learning. Regardless of specific technologies, what I enjoy most about engineering is taking on complex, real-world problems, designing a solution, and then iterating until it’s as robust and effective as I can make it.
 
-How to reach me: email viktoriia.i.sokolenko@gmail.com or [LinkedIn](www.linkedin.com/in/vsokolenko).
+How to reach me: email viktoriia.i.sokolenko@gmail.com or [LinkedIn](https://www.linkedin.com/in/vsokolenko).
 
 ### Most recent experiences:
 - Onyx Data Engineering Intern @ GSK
